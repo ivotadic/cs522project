@@ -1,1 +1,12 @@
 
+Is it possible that News can affect movements in the Sock Market?
+In this project I was able to prove that it is true (to some degree). News information accounts only for
+a very small portion of the Stock Market trend.
+
+The main challenge of the project was finding a solution that can handle large amounts of information and solve
+the problem fast.
+
+With the strategy I used I was able to predict the trend correctly 65% of the time
+and I think that understanding more about why I missed 45% of the time can help me improve these results in the future.
+
+Thank you.
